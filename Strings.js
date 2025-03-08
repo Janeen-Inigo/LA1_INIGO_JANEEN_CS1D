@@ -14,7 +14,7 @@ let uppercase = fullName.toUpperCase();
 let message = "My favorite actor is " + uppercase;
 
 // 6. Now append this message to the (message variable) `his best show is Silicon Valley`. 
-message += " and her best show is The Judge from Hell.";
+message += " and my favorite kdrama is The Judge from Hell.";
 
 // 7. Finally log all variables to the console using code runner.
 console.log(faveActorFirstName);
